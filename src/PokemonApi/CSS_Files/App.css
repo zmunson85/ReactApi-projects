@@ -1,0 +1,176 @@
+
+
+*{
+  
+  text-align: center;
+  min-width: 40%;
+  min-height: 100%;
+  background-color: black;
+  
+}
+.App {
+  
+  text-align: center;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.heading{
+  color:rgba(212, 195, 39, 0.692);
+}
+
+.aform{
+  color:rgba(212, 195, 39, 0.692);
+  font-size: 40px;
+  background-color: black;
+}
+.click{
+  /* font-size: 40px; */
+  color:rgba(212, 195, 39, 0.692);
+  background-color: black;
+  min-width: 80px;
+}
+.placeholder-Type-A-Number{
+  color:rgba(212, 195, 39, 0.692);
+}
+.inputLable{
+  width: 60px;
+  margin-left: 450px;
+  color:rgba(212, 195, 39, 0.692);
+}
+
+.ShowPersonHomeWorld{
+  font-size: 25px;
+  margin-top: 5px; 
+}
+
+.cat-placeholder{
+  color:rgba(212, 195, 39, 0.692);
+  font-size: 10px;
+  background-color: black;
+  width: 50px;
+}
+.dpn{
+  color:rgba(212, 195, 39, 0.692);
+  font-size: 40px;
+  background-color: black;
+  min-width: 200px;
+  margin-right: 400px;
+}
+/* .container{
+  background-image: url(./images/.starwarsapi.png);
+} */
+.errormsg{
+  color:red;
+}
+.Pick{
+  max-width: 60px;
+  padding-left: 200px;
+  
+}
+.go{
+  height: 65px;
+  width: 120px;
+  margin-top: 12px;
+  background-color: darkgoldenrod;
+  object-position: 10%;
+  font-size: 20px;
+}
+.people{
+  /* background-color: rgb(218, 209, 209); */
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 80px;
+  color: rgba(212, 195, 39, 0.692);
+}
+.gohome{
+  font-size: 25px;
+  margin-top: 5px;
+  
+}
+.planets{
+  /* background-color: rgb(126, 120, 120); */
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 80px;
+  color: rgba(212, 195, 39, 0.692);
+}
+
+.vehicles{
+  /* background-color: rgb(126, 120, 120); */
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 80px;
+  color: rgba(212, 195, 39, 0.692);
+}
+
+.starships{
+  /* background-color: rgb(126, 120, 120); */
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 80px;
+  color: rgba(212, 195, 39, 0.692);
+}
+
+.films{
+  /* background-color: rgb(126, 120, 120); */
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 80px;
+  color: rgba(212, 195, 39, 0.692);
+}
+.obiwan{
+  width: 600px;
+  min-height:500px ;
+}
+
+img{
+  width: 80%;
+  height: 100%;
+  
+}
+
+/* .btn{
+  background-color: blue;
+} */
+
+.Charecter_Homeworld_Link{
+  font-size: 30px;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
